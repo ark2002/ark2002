@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>✨ Hey, I'm Aryak 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aryak!+✨;+Frontend+Developer+🚀;+React+Enthusiast+⚛️;+UI+Craftsman+🎨;" />
+
   <h3>Frontend Developer • React Enthusiast • UI Craftsman</h3>
+
+  <img src="https://komarev.com/ghpvc/?username=ark2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
   <p>
     <a href="https://aryak.in">🌐 Portfolio</a> •
@@ -11,9 +14,11 @@
   <p>
     <i>Turning designs into reality, one component at a time 🚀</i>
   </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 What I Do
 
@@ -23,9 +28,13 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
 **Currently:** Building amazing products @ **Billeasy** 💼
 **Passion:** Creating smooth interfaces that users actually enjoy using ✨
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,mui,css,git,figma" />
+</div>
 
 ### **Frontend Core**
 <p>
@@ -50,7 +59,7 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Featured Creations
 
@@ -76,12 +85,12 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
 
 ➡️ *Explore more projects on [my GitHub](https://github.com/ark2002)*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ark2002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ark2002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark2002&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
 </div>
 
@@ -89,7 +98,15 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2002&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="120"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ark2002&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ark2002/ark2002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💭 Philosophy
 
@@ -101,7 +118,7 @@ I believe in:
 - 🧩 **Reusable components** – Build once, use everywhere
 - 📚 **Continuous learning** – Always evolving with the ecosystem
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌌 Beyond Code
 
@@ -110,7 +127,7 @@ When I'm not crafting UIs, you'll find me:
 - 🎨 Experimenting with new design patterns & UI trends
 - ☕ Sipping coffee while debugging that one pesky CSS issue
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <h3>💡 Let's build something amazing together!</h3>
@@ -121,4 +138,8 @@ When I'm not crafting UIs, you'll find me:
   <p>
     ⭐ <b>If you like what you see, consider leaving a star on my repos!</b> ⭐
   </p>
+
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  </div>
 </div>
