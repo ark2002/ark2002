@@ -1,90 +1,124 @@
-<h1 align="center">Hey, I'm Aryak 👋</h1>
-<h3 align="center">Frontend Developer • React • Next.js • UI Engineering</h3>
+<div align="center">
+  <h1>✨ Hey, I'm Aryak 👋</h1>
+  <h3>Frontend Developer • React Enthusiast • UI Craftsman</h3>
 
-<p align="center">
-  <a href="https://aryak.in">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/aryaklahane">LinkedIn</a> •
-  <a href="https://github.com/ark2002">GitHub</a>
+  <p>
+    <a href="https://aryak.in">🌐 Portfolio</a> •
+    <a href="https://www.linkedin.com/in/aryaklahane">💼 LinkedIn</a> •
+    <a href="https://github.com/ark2002">🐙 GitHub</a>
+  </p>
+
+  <p>
+    <i>Turning designs into reality, one component at a time 🚀</i>
+  </p>
+</div>
+
+---
+
+## 🎯 What I Do
+
+I craft **beautiful, performant, and user-centric** web experiences.
+From pixel-perfect UIs to scalable architectures – I bring ideas to life with clean code and modern tools.
+
+**Currently:** Building amazing products @ **Billeasy** 💼
+**Passion:** Creating smooth interfaces that users actually enjoy using ✨
+
+---
+
+## 🛠️ Tech Arsenal
+
+### **Frontend Core**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### **Styling & Design**
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### **Tools & Workflow**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me  
-I build fast, modern, and delightful frontend experiences.  
-I focus on **clean UI**, **pixel-perfect execution**, and **high-performance React/Next.js apps**.
-
-- 🌐 Frontend Developer @ Billeasy  
-- ⚛️ 3+ years experience building with React & Next.js  
-- 💡 Love creating **smooth interfaces**, **design systems**, and **scalable architectures**  
-- 🌌 Obsessed with astronomy – built multiple space-themed projects  
-
----
-
-## 🧠 Tech Stack
-
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" />
-</p>
-
-**Styling**
-<p>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
-</p>
-
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins" />
-</p>
-
----
-
-## 🔭 Featured Projects
+## 🌟 Featured Creations
 
 ### **🌓 AstroHood**
-A platform bringing space discoveries & cosmic events into one place.  
-**Tech:** Next.js, Tailwind, React Query
+> A cosmic platform bringing space discoveries & astronomical events into one beautiful interface.
+> **Stack:** Next.js • Tailwind • React Query
+> *Where space meets code* 🚀
 
-### **🚀 AstroMart**  
-Space-themed e-commerce UI built with clean animations & responsive components.  
-**Tech:** React, Context API, Stripe mock
+### **🛒 AstroMart**
+> Space-themed e-commerce experience with smooth animations & responsive design.
+> **Stack:** React • Context API • Stripe Integration
+> *Shopping among the stars* ⭐
 
-### **📡 AstroTube**  
-A YouTube-like astronomy video portal powered by NASA APIs.  
-**Tech:** React, Tailwind, REST APIs
+### **📡 AstroTube**
+> YouTube-inspired astronomy video portal powered by NASA APIs.
+> **Stack:** React • Tailwind • REST APIs
+> *Explore the cosmos, one video at a time* 🎬
 
 ### **✨ Astro UI**
-Custom reusable UI components inspired by cosmic aesthetics.  
-**Tech:** React, Tailwind, Storybook
+> Custom reusable component library with cosmic aesthetics.
+> **Stack:** React • Tailwind • Storybook
+> *Building blocks for stellar UIs* 🎨
 
-➡️ *More projects on my GitHub → Check repositories*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ark2002&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark2002&theme=react" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2002&layout=compact&theme=react" height="120"/>
-</p>
+➡️ *Explore more projects on [my GitHub](https://github.com/ark2002)*
 
 ---
 
-## 🧩 Fun Fact  
-When I'm not coding, I'm probably watching space documentaries or designing some new UI experiment.
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ark2002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark2002&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2002&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="120"/>
+</div>
 
 ---
 
-⭐ **If you like my work, consider leaving a star on my repos!**
+## 💭 Philosophy
+
+> *"Code is poetry written in logic. UI is where that poetry comes alive."*
+
+I believe in:
+- 🎨 **Design-first thinking** – Every pixel matters
+- ⚡ **Performance is UX** – Fast is beautiful
+- 🧩 **Reusable components** – Build once, use everywhere
+- 📚 **Continuous learning** – Always evolving with the ecosystem
+
+---
+
+## 🌌 Beyond Code
+
+When I'm not crafting UIs, you'll find me:
+- 🔭 Watching space documentaries & exploring the cosmos
+- 🎨 Experimenting with new design patterns & UI trends
+- ☕ Sipping coffee while debugging that one pesky CSS issue
+
+---
+
+<div align="center">
+  <h3>💡 Let's build something amazing together!</h3>
+  <p>
+    <i>Open to collaborations • Always learning • Forever curious</i>
+  </p>
+
+  <p>
+    ⭐ <b>If you like what you see, consider leaving a star on my repos!</b> ⭐
+  </p>
+</div>
