@@ -4,9 +4,23 @@
   <h3>Frontend Developer • React Enthusiast • UI Craftsman</h3>
 
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ark2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/ark2002?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/ark2002?label=Total%20Stars&style=for-the-badge&color=0e75b6" alt="Total Stars" />
+    <a href="https://github.com/ark2002">
+      <img src="https://komarev.com/ghpvc/?username=ark2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    </a>
+    <a href="https://github.com/ark2002?tab=followers">
+      <img src="https://img.shields.io/github/followers/ark2002?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/ark2002?tab=repositories&sort=stargazers">
+      <img src="https://img.shields.io/github/stars/ark2002?label=Total%20Stars&style=for-the-badge&color=0e75b6" alt="Total Stars" />
+    </a>
+  </div>
+
+  <div align="center">
+    <p>
+      <a href="https://github.com/ark2002">
+        <img src="https://img.shields.io/badge/👆%20Click%20Any%20Badge%20to%20Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
   </div>
 
   <p>
@@ -25,6 +39,12 @@
     <i>Turning designs into reality, one component at a time 🚀</i>
   </p>
 
+  <div align="center">
+    <a href="https://github.com/ark2002?tab=repositories&sort=stargazers">
+      <img src="https://img.shields.io/badge/Click%20to%20Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code" />
+    </a>
+  </div>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -32,28 +52,16 @@
 
 ## 🎯 What I Do
 
-I craft **beautiful, performant, and user-centric** web experiences.
-From pixel-perfect UIs to scalable architectures – I bring ideas to life with clean code and modern tools.
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>💼 Currently</h4>
-        <p>
-          <img src="https://img.shields.io/badge/Billeasy-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
-        </p>
-        <p><i>Building amazing products</i></p>
-      </td>
-      <td align="center" width="50%">
-        <h4>✨ Passion</h4>
-        <p>
-          <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />
-        </p>
-        <p><i>Creating smooth interfaces</i></p>
-      </td>
-    </tr>
-  </table>
+  <p>
+    I craft <b>beautiful, performant, and user-centric</b> web experiences.<br>
+    From pixel-perfect UIs to scalable architectures – I bring ideas to life with clean code and modern tools.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Billeasy-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+  </p>
+  <p><i>💼 Building amazing products</i></p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -62,6 +70,42 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,mui,css,git,figma,nodejs,express,mongodb,postgres,aws,docker,jenkins" />
+</div>
+
+### 🎯 Skill Proficiency
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>Frontend Skills</h4>
+        <p>
+          <img src="https://img.shields.io/badge/React-95%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-90%25-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>Styling & Tools</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Tailwind-90%25-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+          <img src="https://img.shields.io/badge/MUI-85%25-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+          <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/Figma-80%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📅 Contribution Calendar
+
+<div align="center">
+  <a href="https://github.com/ark2002">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark2002&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=58A6FF" height="200" alt="Contribution Calendar" />
+  </a>
+  <p><i>Click to view my GitHub profile and contribution history! 🎯</i></p>
 </div>
 
 <div align="center">
@@ -176,9 +220,19 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
 </div>
 
 <div align="center">
-  <a href="https://github.com/ark2002?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <p>
+    <a href="https://github.com/ark2002?tab=repositories">
+      <img src="https://img.shields.io/badge/🔍%20Explore%20All%20Projects-Click%20Here-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/ark2002?tab=repositories&sort=stargazers">
+      <img src="https://img.shields.io/badge/⭐%20Most%20Starred-Click%20Here-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+    </a>
+    <a href="https://github.com/ark2002?tab=repositories&sort=updated">
+      <img src="https://img.shields.io/badge/🔄%20Recently%20Updated-Click%20Here-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -186,55 +240,67 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ark2002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark2002&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
+  <a href="https://github.com/ark2002">
+    <img src="https://github-readme-stats.vercel.app/api?username=ark2002&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" height="165"/>
+  </a>
+  <a href="https://github.com/ark2002">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark2002&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2002&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="120"/>
+  <a href="https://github.com/ark2002?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2002&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="120"/>
+  </a>
+  <p><i>💻 Click to see my repositories and code!</i></p>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ark2002&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <a href="https://github.com/ark2002?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=ark2002&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  </a>
+  <p><i>🏆 Click to view my GitHub achievements!</i></p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark2002&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&height=300&line=58A6FF&point=58A6FF" alt="GitHub Activity Graph" />
+  <a href="https://github.com/ark2002">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark2002&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&height=300&line=58A6FF&point=58A6FF" alt="GitHub Activity Graph" />
+  </a>
+  <p><i>📊 Click the graph to explore my GitHub activity in detail!</i></p>
 </div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ark2002&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💭 Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Quote" />
+  <blockquote>
+    <p><i>"Code is poetry written in logic. UI is where that poetry comes alive."</i></p>
+  </blockquote>
 </div>
 
-> *"Code is poetry written in logic. UI is where that poetry comes alive."*
+<div align="center">
+  <a href="https://github.com/ark2002">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=const+developer+=+%7B;+name%3A+'Aryak'%2C;+role%3A+'Frontend+Developer'%2C;+passion%3A+%5B'React'%2C+'Next.js'%2C+'UI%2FUX'%5D%2C;+build%3A+()+%3D%3E+'Amazing+Web+Experiences'%2C+%7D%3B" alt="Typing Code" />
+  </a>
+</div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="25%">
         <h4>🎨 Design-First</h4>
         <p><i>Every pixel matters</i></p>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <h4>⚡ Performance</h4>
         <p><i>Fast is beautiful</i></p>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" width="25%">
         <h4>🧩 Reusability</h4>
         <p><i>Build once, use everywhere</i></p>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <h4>📚 Learning</h4>
         <p><i>Always evolving</i></p>
       </td>
@@ -252,17 +318,49 @@ From pixel-perfect UIs to scalable architectures – I bring ideas to life with 
       <td align="center" width="33%">
         <h4>🔭 Space Enthusiast</h4>
         <p><i>Watching space documentaries & exploring the cosmos</i></p>
+        <a href="https://github.com/ark2002?tab=repositories&q=astro">
+          <img src="https://img.shields.io/badge/View%20Space%20Projects-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
+        </a>
       </td>
       <td align="center" width="33%">
         <h4>🎨 Design Experimenter</h4>
         <p><i>Experimenting with new design patterns & UI trends</i></p>
+        <a href="https://aryak.in">
+          <img src="https://img.shields.io/badge/See%20My%20Work-FF5722?style=for-the-badge&logo=figma&logoColor=white" />
+        </a>
       </td>
       <td align="center" width="33%">
         <h4>☕ Coffee Debugger</h4>
         <p><i>Sipping coffee while debugging that one pesky CSS issue</i></p>
+        <a href="https://github.com/ark2002">
+          <img src="https://img.shields.io/badge/Check%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/ark2002?tab=repositories&sort=stargazers">
+      <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-Click%20Here-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/ark2002?tab=followers">
+      <img src="https://img.shields.io/badge/👥%20Follow%20Me-Click%20Here-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/ark2002">
+      <img src="https://img.shields.io/github/watchers/ark2002/ark2002?label=Watchers&style=for-the-badge&color=58A6FF" />
+    </a>
+    <a href="https://github.com/ark2002">
+      <img src="https://img.shields.io/github/forks/ark2002/ark2002?label=Forks&style=for-the-badge&color=58A6FF" />
+    </a>
+    <a href="https://github.com/ark2002">
+      <img src="https://img.shields.io/github/stars/ark2002/ark2002?label=Stars&style=for-the-badge&color=58A6FF" />
+    </a>
+  </p>
 </div>
 
 <div align="center">
